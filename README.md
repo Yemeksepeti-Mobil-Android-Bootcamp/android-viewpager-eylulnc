@@ -3,7 +3,7 @@
 
 ## Preview
 Pixel 3
-![Screenshot](UI.gif)
+![Alt Text](https://github.com/Yemeksepeti-Mobil-Android-Bootcamp/android-viewpager-eylulnc/blob/main/Screenshot/UI.gif)
 
 ## Dependencies
 
