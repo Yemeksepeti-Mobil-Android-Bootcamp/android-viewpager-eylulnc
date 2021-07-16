@@ -3,6 +3,7 @@
 
 ## Preview
 Pixel 3
+![Screenshot](UI.gif)
 
 ## Dependencies
 
